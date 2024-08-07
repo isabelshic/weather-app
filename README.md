@@ -1,4 +1,4 @@
-![Slide 4_3 1](https://github.com/user-attachments/assets/1bc09980-d62a-4753-be46-9bd074027221)
+![Weather App from GitHub](https://github.com/user-attachments/assets/74c3910e-1260-4beb-9319-ab9400ba29cd)
 
 # Weather App
 
